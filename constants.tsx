@@ -9,25 +9,25 @@ export const SOUND_TRACKS: SoundTrack[] = [
   {
     id: 'rain',
     name: 'Rainfall',
-    url: '/ZenFocus/sounds/rainfall.mp3',
+    url: '/zenfocus/sounds/rainfall.mp3',
     icon: 'CloudRain'
   },
   {
     id: 'lofi',
     name: 'Lo-Fi Chill',
-    url: '/ZenFocus/sounds/lofi.mp3',
+    url: '/zenfocus/sounds/lofi.mp3',
     icon: 'Music'
   },
   {
     id: 'noise',
     name: 'White Noise',
-    url: '/ZenFocus/sounds/whitenoise.mp3',
+    url: '/zenfocus/sounds/whitenoise.mp3',
     icon: 'Wind'
   },
   {
     id: 'waves',
     name: 'Deep Waves',
-    url: '/ZenFocus/sounds/seawave.mp3',
+    url: '/zenfocus/sounds/seawave.mp3',
     icon: 'Waves'
   }
 ];
