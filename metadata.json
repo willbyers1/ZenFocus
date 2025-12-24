@@ -1,0 +1,6 @@
+
+{
+  "name": "ZenFocus",
+  "description": "A futuristic Zen Cyberpunk productivity dashboard with a Pomodoro timer, ambient sound mixer, and task focus mode.",
+  "requestFramePermissions": ["microphone"]
+}
