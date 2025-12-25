@@ -8,10 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📸 Screenshots
-
-<img width="1366" height="768" alt="ZenFocus Main Interface" src="https://via.placeholder.com/1366x768/020617/22d3ee?text=ZenFocus+Main+Timer+View" />
-<img width="1366" height="768" alt="Sound Mixer" src="https://via.placeholder.com/1366x768/020617/22d3ee?text=Ambient+Sound+Mixer" />
-<img width="1366" height="768" alt="Mobile View" src="https://via.placeholder.com/1366x768/020617/22d3ee?text=Mobile+Responsive+UI" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/29d9910e-45d3-4db4-8b94-31edb04a1ed9" />
 
 ## 📖 Overview
 
